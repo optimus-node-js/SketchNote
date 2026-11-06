@@ -2,7 +2,7 @@
 
 ### A Rich Text & Diagramming Tool
 
-> 📝 **Status:** product concept & technical design spec — implementation planned.
+> **Status:** product concept & technical design spec, implementation planned.
 
 SketchNote is an innovative web application that seamlessly integrates **rich text editing** with **diagramming** capabilities, providing users with a versatile tool for note-taking, brainstorming, and project planning. Built using modern JavaScript and open-source libraries like **Quill.js** and **tldraw**, it allows users to easily switch between creating rich text content and visual diagrams. The project is hosted on Firebase, utilizing its free tier for backend functionality such as user authentication and cloud storage.
 
@@ -72,7 +72,7 @@ This synergy provides an all-in-one solution for individuals looking to enhance 
 ### Backend:
 - **Firebase Firestore**: To store user notes and diagrams in real-time.
 - **Firebase Authentication**: To manage user logins (optional feature for the end).
-  
+
 ### Additional:
 - **Chart.js** (Optional): For future integration of data visualization.
 - **Framer Motion**: For animations and smooth transitions.
@@ -86,7 +86,7 @@ This synergy provides an all-in-one solution for individuals looking to enhance 
    ```bash
    git clone https://github.com/YOUR_USERNAME/SketchNote.git
    ```
-   
+
 2. Navigate into the directory:
    ```bash
    cd SketchNote
@@ -101,7 +101,7 @@ This synergy provides an all-in-one solution for individuals looking to enhance 
    - Go to the Firebase console, create a new project, and enable Firestore.
    - Enable Firebase Authentication if you plan to implement login functionality.
    - Add the Firebase configuration in a `.env.local` file.
-   
+
 5. Run the app:
    ```bash
    npm run dev
@@ -184,13 +184,12 @@ Let me know how you'd like to proceed and what you'd like to tackle first!
 
 ---
 
-## 👤 Author
+## Author
 
-**Rahul Vishwakarma** — Senior Full Stack Developer · Ahmedabad, India
+**Rahul Vishwakarma**, Senior Full Stack Developer based in Ahmedabad, India
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rahul--vishwakarma--portfolio.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://rahul-vishwakarma-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Vishwakarma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-vishwakarma-101346192)
 [![Email](https://img.shields.io/badge/Email-karmarahul67%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karmarahul67@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-optimus--node--js-181717?style=flat-square&logo=github)](https://github.com/optimus-node-js)
 
-If you find this project useful, consider giving it a ⭐.
